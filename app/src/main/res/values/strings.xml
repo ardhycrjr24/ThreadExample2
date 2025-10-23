@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ThreadExample2</string>
+    <string name="start">Start</string>
 </resources>
